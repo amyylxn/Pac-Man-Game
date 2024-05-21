@@ -10,11 +10,11 @@ Dive into the classic fun of Pac-Man! Navigate through a maze filled with dots w
 ### Controls
 
 Use WASD or the arrow keys to control Pacman's movement.
-- W: Move Up
-- A: Move Left
-- S: Move Down
-- D: Move Right
-- **Arrow Keys** can also be used
+- **W**: Move Up
+- **A**: Move Left
+- **S**: Move Down
+- **D**: Move Right
+- **Arrow Keys** may also be used
 
 ### Game Mechanics
 
@@ -30,7 +30,7 @@ Use WASD or the arrow keys to control Pacman's movement.
 - Pacman is represented by a **yellow circle**.
 - Ghosts are represented by remaining circles in colors pink, cyan, orange, and red.
 - The game ends when a ghost collides with Pacman, and "Game Over" is displayed on the screen.
-- Click RUN to start or restart the game.
+- Click **RUN** to start or restart the game.
 
 ## Credits
 This game uses the Turtle graphics module for rendering.
