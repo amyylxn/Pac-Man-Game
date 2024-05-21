@@ -168,7 +168,7 @@ def change(x, y): # changes pacman's direction to specified x and y values if va
 setup(500, 500) # 500x500 window
 hideturtle()
 tracer(False)
-writer.goto(180, -150) # set initial score display
+writer.goto(160, 150) # set initial score display
 writer.color('white')
 writer.write(state['score'])
 listen()
